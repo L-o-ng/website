@@ -1,5 +1,9 @@
 html {
-    
+    background-color: #181818;
+    color: lightgray;
+}
+body {
+    background-color: #181818;
 }
 
 #index-content {
@@ -11,4 +15,13 @@ html {
 
 .index-page-link #computing-in-education {
 
+}
+
+#environment-content {
+    background-color: #1f1e33;
+    color: lightgray;
+    margin: 0 auto;
+    width: 70%;
+    height: auto;
+    text-align: center;
 }
