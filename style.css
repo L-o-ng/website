@@ -4,7 +4,7 @@ html {
 }
 body {
     background-color: #181818;
-    colour: lightgray;
+    color: lightgray;
 }
 
 #index-content {
@@ -25,4 +25,10 @@ body {
     width: 70%;
     height: auto;
     text-align: center;
+}
+#Dylan-info {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: inline-end;
 }
