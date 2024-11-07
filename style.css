@@ -39,6 +39,16 @@ body {
     color: black;
 }
 
+footer {
+    background-color: #1f1e33;
+    color: lightgray;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
 .homelink{
     color: black;
     font-size: 30px;
