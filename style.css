@@ -48,3 +48,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.homelink{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+
+}
