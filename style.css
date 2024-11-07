@@ -2,6 +2,7 @@ html {
     background-color: #181818;
     color: lightgray;
 }
+
 body {
     background-color: #181818;
     color: lightgray;
@@ -14,8 +15,8 @@ body {
     text-align: center;
 }
 
-.index-page-link #computing-in-education {
-
+.navbar-brand {
+    padding: 10px;
 }
 
 #environment-content {
@@ -26,6 +27,7 @@ body {
     height: auto;
     text-align: center;
 }
+
 #Dylan-info {
     list-style-type: none;
     margin: 0;
