@@ -26,3 +26,9 @@ body {
     height: auto;
     text-align: center;
 }
+#Dylan-info {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: inline-end;
+}
